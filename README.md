@@ -1,7 +1,5 @@
 # Dynamic Island for Mac
 
-![Project Illustration](./A_futuristic_cyberpunk-style_illustration_of_a_C++.png)
-
 ## 🚀 Introduction  
 This is a **Dynamic Island for Mac** that I developed myself. This project was my first experience with **SwiftUI**, and I used **Xcode** to build it. The goal was to bring a similar experience to the iPhone’s **Dynamic Island** onto **macOS**, leveraging SwiftUI’s capabilities to create a smooth and responsive interface.
 
